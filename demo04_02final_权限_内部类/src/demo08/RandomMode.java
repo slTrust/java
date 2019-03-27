@@ -1,6 +1,6 @@
 package demo08;
 
-import cn.itcast.day11.red.OpenMode;
+import red.OpenMode;
 
 import java.util.ArrayList;
 import java.util.Random;
