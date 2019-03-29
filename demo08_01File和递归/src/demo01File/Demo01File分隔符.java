@@ -20,7 +20,7 @@ import java.io.File;
         directory:文件夹/目录
         path:路径
  */
-public class Demo01File {
+public class Demo01File分隔符 {
     public static void main(String[] args) {
         /*
             static String pathSeparator 与系统有关的路径分隔符，为了方便，它被表示为一个字符串。
